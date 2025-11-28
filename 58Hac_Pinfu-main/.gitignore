@@ -1,0 +1,4 @@
+.idea/
+gemini-api-v2/node_modules/
+gemini-api-v2/package-lock.json
+gemini-api-v2/config.json
